@@ -1,0 +1,13 @@
+"The food was delicious, and the service was impeccable."
+Sentimento: Positivo,
+Palavras-chave: "delicious" e "impeccable";
+
+
+"I read a book last night."
+Sentimento: Neutro
+Palavras-chave: sem palavras de conotaçao positiva ou negativa, sem contexto adicional um não é possível inferir;
+
+
+"The movie was a complete waste of time."
+Sentimento: Negativo,
+Palavras-chave: "complete waste of time" indica forte insatisfação;
